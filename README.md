@@ -19,7 +19,7 @@ Carlin Shaw assisted with consolidating CSS selectors during tutoring session.
 
 ## Application link
 
-https://ethtru.github.io/Challenge1/
+https://ethtru.github.io/first-challenge/
 
 
 
